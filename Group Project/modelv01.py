@@ -21,4 +21,4 @@ for item in dict_art:
     print(dict_art[item])
 for item in list_wp:
     print(item)
-print(list_wp)  
+# print(list_wp)  
