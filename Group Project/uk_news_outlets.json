@@ -1,0 +1,53 @@
+{
+  "news_outlets": [
+    {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/"
+    },
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/uk"
+    },
+    {
+      "name": "The Telegraph",
+      "url": "https://www.telegraph.co.uk/"
+    },
+    {
+      "name": "The Independent",
+      "url": "https://www.independent.co.uk/"
+    },
+    {
+      "name": "Channel 4",
+      "url": "https://www.channel4.com/"
+    },
+    {
+      "name": "Huffington Post",
+      "url": "https://www.huffingtonpost.co.uk/"
+    },
+    {
+      "name": "Evening Standard",
+      "url": "https://www.standard.co.uk"
+    },
+    {
+      "name": "Wired",
+      "url": "https://www.wired.co.uk/"
+    },
+    {
+      "name": "Daily Record",
+      "url": "https://www.dailyrecord.co.uk/"
+    },
+    {
+      "name": "Wales Online",
+      "url": "https://www.walesonline.co.uk"
+    },
+    {
+      "name": "Sky",
+      "url": "https://www.sky.com/"
+    },
+    {
+      "name": "Metro",
+      "url": "https://metro.co.uk/"
+    }
+  ]
+}
+
